@@ -1,3 +1,5 @@
+# Netflix Titles Exploratory Data Analysis (EDA)
+
 This project performs a comprehensive **Exploratory Data Analysis (EDA)** on a dataset containing details about Netflix titles, including both Movies and TV Shows. The goal is to uncover trends and insights such as the distribution of content types, popular genres, release patterns, and country-wise contributions to the Netflix library.
 
 ---
